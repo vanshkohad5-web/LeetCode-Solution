@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
