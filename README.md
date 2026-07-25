@@ -26,13 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
