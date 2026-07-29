@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vanshkohad5-web/LeetCode-Solution/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
